@@ -1,4 +1,4 @@
-# 🎲 Trilha da Sorte
+# 🎲 Trilha do tabuleiro 
 
 Jogo de tabuleiro com dados, em **3 arquivos** (`index.html`, `style.css`, `script.js`), pronto para GitHub Pages como PWA.
 
