@@ -58,4 +58,7 @@ Inclui `manifest.json` e `sw.js`. Adicione `icon-192.png` e `icon-512.png` na me
 1. Suba todos os arquivos (mesma pasta) para o repositório.
 2. Ative o GitHub Pages na branch principal.
 3. Acesse pelo link gerado.
-4. 
+4. https://detiillimichel-max.github.io/tabuleiro-jogos/
+5. © 2026 Michel Detilli.
+Todos os direitos reservados. 
+É permitido jogar online. É proibida a cópia, distribuição ou uso comercial do código sem autorização.
