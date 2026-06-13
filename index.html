@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jogo de Tabuleiro com Fases</title>
+  <link rel="stylesheet" href="styles/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Jogo de Tabuleiro com Fases</h1>
+    <p>Tabuleiro que muda de layout entre fases. Dados animados incluso.</p>
+  </header>
+
+  <main id="game">
+    <section id="board-container" class="board board--phase-1" aria-label="Tabuleiro">
+      <!-- Tiles são gerados dinamicamente -->
+    </section>
+
+    <section id="controls" aria-label="Controles do jogo">
+      <button id="roll-dice" title="Rolar dado">Rolar Dado</button>
+      <div id="dice-display" aria-live="polite">Valor: -</div>
+    </section>
+  </main>
+
+  <script type="module" src="scripts/main.js"></script>
+</body>
+</html>
+
